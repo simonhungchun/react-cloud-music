@@ -7,7 +7,7 @@
 打开方式:
 1. 将项目 clone 下来
 ```shell
-$ git clone https://github.com/sanyuan0704/cloud-music.git
+$ git clone https://github.com/simonhungchun/react-cloud-music.git
 $ cd cloud-music
 $ npm install
 
